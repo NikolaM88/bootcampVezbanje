@@ -1,1 +1,4 @@
+
 Prva verzija fajla
+
+Ovaj deo je dodat pomocu nano editor-a kroz GitBash kao deo trece stavke u cetvrtom zadatku.
